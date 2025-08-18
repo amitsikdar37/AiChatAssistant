@@ -1,0 +1,23 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "express server for recieving messages from whatsapp webhook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webhook-server.js",
+    "dev": "nodemon webhook-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "localtunnel": "^2.0.2",
+    "ngrok": "^5.0.0-beta.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
