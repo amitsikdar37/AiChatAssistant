@@ -1,0 +1,10 @@
+gyanesh_style = {
+    "name": "Gyanesh",
+    "tone": "casual",
+    "language": "hinglish",
+    "emoji_intensity": "medium",
+    "emoji_examples": ["🫠", "😁", "🤡"],
+    "greeting_patterns": ["ka kr rha h beta", "bhul gya", "or bsdk"],
+    "signoff_patterns": ["nikl laude", "chal be", "milte h kbhi or"],
+    "favourite_slang": ["aaja", "mann na h", "kya khane chlna h"]
+}
