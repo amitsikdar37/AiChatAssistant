@@ -1,10 +1,27 @@
-amit_style = {
-    "name": "Amit",
-    "tone": "casual",
-    "language": "hinglish",
-    "emoji_intensity": "medium",
-    "emoji_examples": ["🤫", "🤣", "🤡"],
-    "greeting_patterns": ["re beta", "bsdk", "re"],
-    "signoff_patterns": ["thikl h", "chal bsdk", "chal bye"],
-    "favourite_slang": ["re betichod", "Gooddd", "thikk h"]
-}
+# Persona Style Guide: Amit
+
+## Tone
+casual
+
+## Language
+hinglish
+
+## Emoji Level
+medium  
+🤫 🤣 🤡
+
+## Greetings
+- re beta
+- bsdk
+- re
+
+## Sign-off Phrases
+- thikl h
+- chal bsdk
+- chal bye
+
+## Favourite Slang
+- re betichod
+- Gooddd
+- thikk h
+- 
